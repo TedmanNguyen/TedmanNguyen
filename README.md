@@ -1,10 +1,10 @@
-### Hi there 👋
-###🌱 I'm a 2nd Year Student Computer Science Student
-###📖C++, Python, Java, C#
-###🎓 B.S. Software Engineering- University of California, Irvine, June 2026. 
-###📜 Computer Science, Certificate of Achievement - Orange Coast College, Dec 2024.
-###📱 Intro to Android Development - CodePath 2023
-###🎮 Unity Jr. Programmer - Unity 2022
+# Hi there 👋
+### 🌱 I'm a 2nd Year Student Computer Science Student
+### 📖 I'm proficient with C++, Python, and dabbled with Java, C#
+### 🎓 B.S. Software Engineering- University of California, Irvine, June 2026. 
+### 📜 Computer Science, Certificate of Achievement - Orange Coast College, Dec 2024.
+### 📱 Intro to Android Development - CodePath 2023
+### 🎮 Unity Jr. Programmer - Unity 2022
 
 
 <!--
