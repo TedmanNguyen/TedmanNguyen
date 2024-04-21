@@ -1,10 +1,15 @@
 # Gooooood morning! 👋
-🌱 I'm a 2nd Year Student Computer Science Student
-📖 I'm proficient with C++, Python, and dabbled with Java, C#
+🌱 I'm a 2nd Year Student Computer Science Student.
+
+📖 I'm proficient with C++, Python, and dabbled with Java, C#.
+
 🎓 B.S. Software Engineering- University of California, Irvine, June 2026. 
+
 📜 Computer Science, Certificate of Achievement - Orange Coast College, Dec 2024.
-📱 Intro to Android Development Certificate - CodePath 2023
-🎮 Unity Jr. Programmer Certificate - Unity 2022
+
+📱 Intro to Android Development Certificate - CodePath 2023.
+
+🎮 Unity Jr. Programmer Certificate - Unity 2022.
 
 
 <!--
