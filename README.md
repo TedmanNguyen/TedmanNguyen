@@ -1,7 +1,5 @@
 # Gooooood morning! 👋
-🌱 I'm a 2nd Year Student Computer Science Student.
-
-📖 I'm proficient with C++, Python, and dabbled with Java, C#.
+🌱 I'm a 2nd Year Student Computer Science Student. 
 
 🎓 B.S. Software Engineering- University of California, Irvine, June 2026. 
 
