@@ -3,7 +3,7 @@
 
 🎓 I'm pursuing a B.S. Software Engineering- University of California, Irvine, June 2026. 
 
-📜 Check me about my latest open-source contribution. 
+📜 Ask me about my latest open-source contribution. 
 
 
 <!--
