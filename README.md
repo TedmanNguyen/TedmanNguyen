@@ -1,4 +1,4 @@
-# Hallo there 👋
+# Hello there 👋
 🌱 I'm a 2nd Year Student Computer Science Student. 
 
 🎓 I'm pursuing a B.S. Software Engineering- University of California, Irvine, June 2026. 
