@@ -5,6 +5,8 @@
 
 📜 Ask me about my latest open-source contribution. 
 
+:space_invader: Or the game project I'm working on! 
+
 
 <!--
 **TedmanNguyen/TedmanNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
