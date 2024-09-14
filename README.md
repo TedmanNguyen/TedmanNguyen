@@ -1,7 +1,7 @@
 # Hello there 👋
 🌱 I'm a 3rd Year Student Computer Science Student. 
 
-🎓 I'm pursuing a B.S. Software Engineering- University of California, Irvine, June 2026. 
+🎓 I'm pursuing a B.S. Software Engineering- University of California, Irvine, December 2026. 
 
 📜 Ask me about my latest open-source contribution. 
 
