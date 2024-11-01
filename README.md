@@ -1,8 +1,6 @@
 # Hello there 👋
 🌱 I'm a 3rd Year Student Computer Science Student. 
 
-🎓 I'm pursuing a B.S. Software Engineering- University of California, Irvine, December 2026. 
-
 📜 Ask me about my latest open-source contribution. 
 
 :space_invader: Or the game project I'm working on! 
