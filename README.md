@@ -1,9 +1,9 @@
 # Hello there 👋
-🌱 I'm a 3rd Year Student Computer Science Student. 
+🌱 I'm a 3rd Year Software Engineering Student
 
 📜 Ask me about my latest open-source contribution. 
 
-:space_invader: Or the game project I'm working on! 
+
 
 
 <!--
