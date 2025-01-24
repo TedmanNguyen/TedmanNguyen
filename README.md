@@ -1,5 +1,5 @@
 # Hello there 👋
-🌱 I'm a 3rd Year Software Engineering Student
+🌱 I'm a Software Engineering Student 
 
 📜 Ask me about my latest open-source contribution. 
 
